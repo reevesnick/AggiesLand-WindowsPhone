@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="AggiesLand_Win.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AggiesLand_Win"
+    RequestedTheme="Light">
+
+</Application>

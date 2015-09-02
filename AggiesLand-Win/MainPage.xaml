@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="AggiesLand_Win.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AggiesLand_Win"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <ListView x:Name="listView1" SelectionChanged="ListView_SelectionChanged" Foreground="White" Background="#FFFFF9F9">
+        <x:String>Item 1</x:String>
+        <x:String>Item 2</x:String>
+    </ListView>
+
+</Page>
+
